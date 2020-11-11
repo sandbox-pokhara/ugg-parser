@@ -1,0 +1,16 @@
+{
+  "challenger": "1",
+  "master": "2",
+  "diamond": "3",
+  "platinum": "4",
+  "gold": "5",
+  "silver": "6",
+  "bronze": "7",
+  "overall": "8",
+  "platinum_plus": "10",
+  "diamond_plus": "11",
+  "iron": "12",
+  "grandmaster": "13",
+  "master_plus": "14",
+  "diamond_2_plus": "15"
+}
